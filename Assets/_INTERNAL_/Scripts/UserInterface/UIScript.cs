@@ -115,7 +115,7 @@ public class UIScript : MonoBehaviour
 			//winLabel.text = "Player " + playerNumber + " wins!";
 			statsPanel.SetActive(false);
 			winPanel.SetActive(true);
-			SceneManager.LoadScene("Level1");
+			SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
 		}
 	}
 
@@ -130,7 +130,8 @@ public class UIScript : MonoBehaviour
 	        statsPanel.SetActive(false);
 	        gameOverPanel.SetActive(true);
             SceneManager.LoadScene(levelOnGameOver);
-        }
+			SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
+		}
 	}
 
 

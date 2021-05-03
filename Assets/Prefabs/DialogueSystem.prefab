@@ -201,7 +201,8 @@ MonoBehaviour:
     \u0438\u043C\u0435 \u0435 Snowy!"
   backgroundColor: {r: 0, g: 0, b: 0, a: 1}
   textColor: {r: 1, g: 1, b: 1, a: 1}
-  targetObject: {fileID: 0}
+  targetObject: {fileID: 4603631238862885755, guid: 83e3fbfd772d8d947918e75b9291b724,
+    type: 3}
   disappearMode: 0
   timeToDisappear: 2
   keyToPress: 13
@@ -222,7 +223,8 @@ MonoBehaviour:
     D \u0437\u0430 \u0434\u0430 \u043C\u0435 \u0434\u0432\u0438\u0436\u0438\u0448."
   backgroundColor: {r: 0, g: 0, b: 0, a: 1}
   textColor: {r: 1, g: 1, b: 1, a: 1}
-  targetObject: {fileID: 0}
+  targetObject: {fileID: 4603631238862885755, guid: 83e3fbfd772d8d947918e75b9291b724,
+    type: 3}
   disappearMode: 0
   timeToDisappear: 4
   keyToPress: 13
@@ -244,7 +246,8 @@ MonoBehaviour:
     \u0441 \u0431\u0443\u0442\u043E\u043D\u0430 Space!"
   backgroundColor: {r: 0, g: 0, b: 0, a: 1}
   textColor: {r: 1, g: 1, b: 1, a: 1}
-  targetObject: {fileID: 0}
+  targetObject: {fileID: 4603631238862885755, guid: 83e3fbfd772d8d947918e75b9291b724,
+    type: 3}
   disappearMode: 0
   timeToDisappear: 5
   keyToPress: 13
@@ -265,7 +268,8 @@ MonoBehaviour:
     \u0437\u0430 \u0434\u0430 \u043F\u0440\u0435\u043C\u0438\u043D\u0435\u0448 \u043D\u0438\u0432\u043E\u0442\u043E!"
   backgroundColor: {r: 0, g: 0, b: 0, a: 1}
   textColor: {r: 1, g: 1, b: 1, a: 1}
-  targetObject: {fileID: 0}
+  targetObject: {fileID: 4603631238862885755, guid: 83e3fbfd772d8d947918e75b9291b724,
+    type: 3}
   disappearMode: 0
   timeToDisappear: 5
   keyToPress: 13
