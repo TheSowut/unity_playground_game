@@ -3218,8 +3218,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9117653835b354259a0c03ce702840f6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  textToDisplay: "\u0417\u0434\u0440\u0430\u0432\u0435\u0439, \u043C\u043E\u0435\u0442\u043E
-    \u0438\u043C\u0435 \u0435 Snowy!"
+  textToDisplay: Hey, my name is Snowy!
   backgroundColor: {r: 0, g: 0, b: 0, a: 1}
   textColor: {r: 1, g: 1, b: 1, a: 1}
   targetObject: {fileID: 510704764}
@@ -3245,7 +3244,7 @@ MonoBehaviour:
   customActions:
     m_PersistentCalls:
       m_Calls: []
-  happenOnlyOnce: 0
+  happenOnlyOnce: 1
   filterByTag: 0
   filterTag: Player
   frequency: 1
@@ -3302,8 +3301,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9117653835b354259a0c03ce702840f6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  textToDisplay: "\u0418\u0437\u043F\u043E\u043B\u0437\u0432\u0430\u0439 A \u0438
-    D \u0437\u0430 \u0434\u0430 \u043C\u0435 \u0434\u0432\u0438\u0436\u0438\u0448."
+  textToDisplay: Use A and D to move me around.
   backgroundColor: {r: 0, g: 0, b: 0, a: 1}
   textColor: {r: 1, g: 1, b: 1, a: 1}
   targetObject: {fileID: 510704764}
@@ -3323,8 +3321,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9117653835b354259a0c03ce702840f6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  textToDisplay: "\u0418\u0437\u043F\u043E\u043B\u0432\u0430\u0439 A, D \u0438 Space
-    \u0437\u0430 \u0434\u0430 \u043F\u0440\u0435\u043C\u0438\u043D\u0435\u0448 \u043D\u0438\u0432\u043E\u0442\u043E!"
+  textToDisplay: Use A, D and Space to finish the tutorial!
   backgroundColor: {r: 0, g: 0, b: 0, a: 1}
   textColor: {r: 0, g: 0, b: 0, a: 1}
   targetObject: {fileID: 510704764}
@@ -3344,9 +3341,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9117653835b354259a0c03ce702840f6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  textToDisplay: "\u0423\u043C\u0435\u044F \u0434\u0430 \u043E\u0431\u0440\u044A\u0449\u0430\u043C
-    \u0433\u0440\u0430\u0432\u0438\u0442\u0430\u0446\u0438\u044F\u0442\u0430 \u0441\u0438
-    \u0441 \u0431\u0443\u0442\u043E\u043D\u0430 Space!"
+  textToDisplay: I can reverse gravity with the SPACE button!
   backgroundColor: {r: 0, g: 0, b: 0, a: 1}
   textColor: {r: 1, g: 1, b: 1, a: 1}
   targetObject: {fileID: 510704764}
